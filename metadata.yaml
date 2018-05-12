@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '34897'
     url: http://www.gutenberg.org/2009/agents/34897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38734#M-moires-du-Baron-de-BonnefouxCapitaine-de-vaisseau.-1782-1855
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Guerres
