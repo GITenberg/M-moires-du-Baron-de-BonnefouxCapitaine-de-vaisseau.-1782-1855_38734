@@ -1,0 +1,41 @@
+_repo: M-moires-du-Baron-de-BonnefouxCapitaine-de-vaisseau.-1782-1855_38734
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Jobbé-Duval, Émile
+    alias: Jobbe-Duval, Emile
+    gutenberg_agent_id: '39629'
+    url: http://www.gutenberg.org/2009/agents/39629
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonnefoux, Pierre-Marie-Joseph, baron de
+    aliases:
+    - De Bonnefoux, Pierre-Marie-Joseph, baron
+    - Bonnefoux, baron de
+    - Bonnefoux, P.-M.-J. (Pierre-Marie-Joseph), baron de
+    birthdate: 1782
+    deathdate: 1855
+    gutenberg_agent_id: '34897'
+    url: http://www.gutenberg.org/2009/agents/34897
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Guerres
+gutenberg_issued: '2012-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38734'
+  lccn: 01028024
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bonnefoux, Pierre-Marie-Joseph, baron de, 1782-1855'
+- !lcsh 'France -- History, Naval'
+- !lcc 'DC'
+title: Mémoires du Baron de Bonnefoux, Capitaine de vaisseau, 1782-1855
+url: http://www.gutenberg.org/ebooks/38734
